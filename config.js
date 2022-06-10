@@ -11,6 +11,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
+// • Putra Nt
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -59,9 +60,9 @@ global.ppulsa2 = '083143393763'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
+global.nomorbot = '6283856051043'
+global.nomorown = '6283856051043'
+global.namebot = 'Putra BOT'
 global.nameown = 'Letta - Sama'
 
 
